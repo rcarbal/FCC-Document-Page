@@ -1,0 +1,5 @@
+@media(min-width: 575px) and (max-width: 1018px){
+    #header{
+        font-size: .7rem;
+    }
+}
